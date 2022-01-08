@@ -1,0 +1,1 @@
+// It this file we define database schema for User
