@@ -1,5 +1,16 @@
 **** Server Setup ****
 To install type "npm install"
+Create .env file in root folder and paste these environemnt variables.
+
+** Environemnt Variables **
+ENVIRONMENT=development
+PORT=3000
+PG_USER=otumyurz
+PG_PASS=nfNkTl-IlOnIyz5RhMT8gjxQWzAnLz4N
+PG_HOST=abul.db.elephantsql.com
+PG_PORT=5432
+PG_DATABASE=otumyurz
+
 To sun server on development type "npm run dev"
 To sun server on production type "npm run prod"
 
